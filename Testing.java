@@ -10,6 +10,7 @@ public class Testing {
 		System.out.println("Bienvenido a GitHub.");
 		System.out.println("Cambio del usuario 2.");
 		System.out.println("Prueba subidas de 2 usuarios.");
+		System.out.println("Prueba subidas de 2 usuarios.");
 	}
 	
 	public static void main(String[] args) {
