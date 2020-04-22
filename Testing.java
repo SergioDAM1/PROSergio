@@ -8,7 +8,7 @@ public class Testing {
 	
 	void Visualizar() {
 		System.out.println("Bienvenido a GitHub.");
-		System.out.println("Cambio del usuario 2. PruebasDAM1");
+		System.out.println("Cambio del usuario 2.");
 	}
 	
 	public static void main(String[] args) {
